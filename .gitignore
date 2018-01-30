@@ -1,2 +1,5 @@
-.idea
 *.DS_Store
+*.docx
+*.idea
+course_1/*.DS_Store
+course_1/*.idea
